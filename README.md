@@ -5,7 +5,6 @@ Auto Trader is an advertising platform where people and organizations can advert
 All the registered users can submit their advertisements to the platform and these submissions may be either vehicles, spare parts or other services. All these submissions will go through a reviewal process. If the Auto Trader admin panel approved the submission, it will be published as an advertisement on the website. Administrative officers are the privilege users of this system, they can manage all the listings and the registered users in the system.
 
 ## Technologies
-- Frontend: React JS
 - Backend: Spring Boot
 - Database: MySQL
 
